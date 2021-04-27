@@ -1,0 +1,20 @@
+table, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+#paragraph {
+  border: 1px solid blue;
+  padding: 20px;
+}
+
+#image {
+  border: 20px solid orange;
+  padding: 40px;
+}
